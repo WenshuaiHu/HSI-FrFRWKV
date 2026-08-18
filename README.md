@@ -15,8 +15,6 @@ Citation
 
 Wen-Shuai Hu, Guo-Liang Ren, Heng-Chao Li*, Xudong Zhao, Weiwei Sun, and Ran Tao, "HSI-FrFRWKV: Fractional Fourier RWKV for Cross-scene Coastal Wetland Mapping on Hyperspectral Images," IEEE Transactions on Geoscience and Remote Sensing, to be pubished, 2026. doi: 10.1109/TGRS.2026.3724234.  <br>
 
-[1], , IEEE Transactions on Geoscience and Remote Sensing, Accepted, 2026.
-
 @ARTICLE{11657448, <br>
   author={Hu, Wen-Shuai and Ren, Guo-Liang and Li, Heng-Chao and Zhao, Xudong and Sun, Weiwei and Tao, Ran}, <br>
   journal={IEEE Transactions on Geoscience and Remote Sensing},  <br>
