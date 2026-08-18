@@ -28,7 +28,7 @@ Wen-Shuai Hu, Guo-Liang Ren, Heng-Chao Li*, Xudong Zhao, Weiwei Sun, and Ran Tao
   doi={10.1109/TGRS.2026.3724234}}
 
 # Requirements
-
+Ubuntu 22.04.5 LTS <br>
 CUDA Version: 11.7 <br>
 Pytorch Version: 2.0 <br>
 Python Version: 3.10 <br>
